@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1388386300 source:/home/keeeevin/Documentos/Proyectos personales/imageOpener/main.cpp
+	<iostream>
+	<cv.h>
+	<opencv/cvaux.h>
+	<opencv/cxcore.h>
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+
